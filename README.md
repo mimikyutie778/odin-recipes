@@ -4,5 +4,4 @@ Setting up html for use on documents (Declaring doctype, html, meta, etc)
 Creating an index page for a website
 Creating links to seperate pages where the recipes will be stored
 Adding images
-
-Notably, this project is purely html and as such will lack the formatting that comes from languages like css
+Using css to edit text formatting and color
