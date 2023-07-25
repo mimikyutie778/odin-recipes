@@ -11,8 +11,21 @@
 
 .list {
     text-align:center;
-    color:rgb(88, 32, 161);
+    color:rgb(57, 19, 105);
     background-color: pink;
+}
+
+h2 {
+    text-align: center;
+    color:darkblue;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.desc {
+    font-size: 18px;
+    color: red;
+    background-color: black;
 }
 
 a:link, a:visited {
