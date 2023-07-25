@@ -14,3 +14,12 @@
     color:rgb(88, 32, 161);
     background-color: pink;
 }
+
+a:link, a:visited {
+    background-color: rgb(156, 14, 195);
+    color: white;
+    text-decoration: none;
+    padding: 8px 18px;
+    text-align: center;
+    display: inline-block;
+}
